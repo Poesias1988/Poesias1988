@@ -1,0 +1,106 @@
+body{
+  width: 85%;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "helvetica", Sans-Serif;
+}
+
+h1{
+  color: white;
+  background-color: black;
+  text-align: center;
+  
+}
+h3{
+  border: 2px solid black;
+  border-bottom: 2px solid black;
+}
+ .cabecalho{
+  color: white;
+  background-color: black;
+  display: inline-block;
+  text-align: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.20em;
+  text-align: center;
+  font-size: 1rem;
+  border-bottom: 2px solid black;
+  
+}
+a{
+  color: white;
+d}
+h{
+  color: white;
+  display: flex;
+  ustify-content: space-envely;
+  flex-wrap: wrap;
+  padding-left: 2%;
+  background-color: black;
+  
+  
+}
+
+p {
+  text-align:justify ;
+  text-indent: 10%;
+}
+.sobre{
+  
+  border-bottom: 1px solid black;
+}
+.Anselmo{
+  color: red;
+}
+
+.pensar{
+  padding-bottom: 1.5rem;
+  
+}
+.frases{
+  font-size: 1.60rem;
+  color: green;
+  padding-top: 0rem;
+  
+}
+img{
+  width: 15%;
+}
+
+.imagen{
+  text-align: center;
+}
+.marte {
+  color: red;
+  font-size: 1.60rem;
+  text-align: center;
+}
+.ecos {
+  font-size: 1.20rem;
+  color: blue;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  text-align: center;
+}
+.wep {
+  width: 75%;
+  text-align: center;
+  padding-left: 10%;
+  
+}
+.distante{
+  text-align: left;
+}
+.b{
+  background-color: #99999999;
+}
+.roda{
+  background-color:#9999;
+  
+}
+.esta {
+  padding-top: 1rem;
+  border-block: 2px solid black;
+  
+}
